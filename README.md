@@ -1,5 +1,11 @@
 # 开源中国 iOS [客户端](http://www.oschina.net/app/)
 
+#许多开元代码 :
+#      1, http://www.jianshu.com/p/328b98f68665
+#      2,http://www.code4app.com/forum.php?mod=viewthread&tid=9683&fromuid=721976 
+
+
+
 ------
 
 ## 编译环境
